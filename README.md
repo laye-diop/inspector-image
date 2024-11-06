@@ -15,3 +15,8 @@ Ce script Python vous permet d'extraire les informations EXIF d'une image et de 
 ## Installation
 
 1. Clonez ce dépôt :
+
+## RUN
+    `python3 main.py <OPTION> <IMAGE_NAME>`
+    EX ` python3 main.py -map image.jpeg `
+    EX ` python3 main.py -steg image.jpeg `
